@@ -2,7 +2,7 @@ To start with i will upload 4 memoranda, 1 establishing the notation for a mathe
 the other 3 will first give an introduction to the overall framework and the motivation for regime-dependent modeling of the addictive cycle
 and the remaining 2 memoranda will give technical details. I will also include here a presentation of the full addictive cycle diagram that can be viewed as a precursor to the mathematical formulation using Active Inference
 
-Related Approaches and Selected Bibliography
+Related Approaches and Selected Bibliography:
 The following works provide related perspectives on addiction, relapse, impaired control, and recovery. They include Bayesian and Active Inference accounts, nonlinear dynamical models, latent-state models, and theories of competing decision processes.
 
 The present project investigates their relationship to a framework combining continuous affective-cognitive states, discrete psychological operating regimes, regime-dependent policy repertoires, and planning over relapse and recovery trajectories. Inclusion here indicates conceptual or mathematical relevance, rather than equivalence to the proposed framework. This is a selected bibliography, not an exhaustive review.
